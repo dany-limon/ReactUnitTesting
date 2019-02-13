@@ -22,7 +22,7 @@ Automatizando las pruebas unitarias con Jest
 * Facilitan los cambios y **refactorizaciones**
 * Sirven de **documentación**
 * Son un indicador de **calidad**
-* Son un paso más de la** Integración continua**
+* Son un paso más de la **Integración continua**
 * **TDD** (Test-driven development)
 
 ## Render por defecto
